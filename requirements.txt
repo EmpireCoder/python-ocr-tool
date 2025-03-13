@@ -1,0 +1,5 @@
+pytesseract>=0.3.8
+opencv-python>=4.5.3
+Pillow>=8.3.1
+pyautogui>=0.9.53
+psutil>=5.8.0
